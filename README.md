@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Emission files, model output, and supporting data are stored separately on <a href="https://doi.org/10.7910/DVN/UIEZW5">Harvard Dataverse</a> and can be downloaded to the repository directory using `0-Fetch_Dataverse_Files.py`.
+Emission files, model output, and supporting data are stored separately on <a href="https://doi.org/10.7910/DVN/UIEZW5">Harvard Dataverse</a> and can be downloaded to the repository directory using `fetch_dataverse_files.py`.
 
 The script `call_all.sh` executes the python files listed below. The script `install_environment.sh` creates a conda environment called **hg_ssp_env** that installs python and all dependencies needed to run the code.
 
