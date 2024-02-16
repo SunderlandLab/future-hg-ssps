@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# -- fetch files from Harvard Dataverse
+python fetch_dataverse_files.py
+
 # -- this takes a long time to run
 python attribute_regional_deposition.py
 
