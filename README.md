@@ -24,6 +24,7 @@ Source code for the paper:
 Main analysis may be run by calling `./scripts/call_all.sh`
 
 ### Main Scripts
+- fetch_dataverse_files.py
 - attribute_regional_deposition.py
 - plot_1_regional_and_category_emissions.py
 - plot_2_emission_speciation_trends.py
