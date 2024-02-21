@@ -1,5 +1,7 @@
 # future-hg-ssps
 
+<a href="https://doi.org/10.5281/zenodo.10672520"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10672520.svg" alt="DOI"></a>
+
 ## Introduction
 
 Emission files, model output, and supporting data are stored separately on <a href="https://doi.org/10.7910/DVN/UIEZW5">Harvard Dataverse</a> and can be downloaded to the repository directory using `fetch_dataverse_files.py`.
