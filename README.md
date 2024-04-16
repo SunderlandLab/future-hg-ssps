@@ -9,7 +9,7 @@ Emission files, model output, and supporting data are stored separately on <a hr
 The script `call_all.sh` executes the python files listed below. Dependencies for python are listed in `requirements.txt`.
 
 Source code for the paper:
-> Geyman, B.M., Streets, D.G., Thackray, C.P. Olson, C.L., Schaefer, K., and Sunderland, E.M. (2024). Projecting Global Mercury Emissions and Deposition Under the Shared Socioeconomic Pathways. *ESS Open Archive*. <a href="https://doi.org/10.22541/essoar.169945526.69817769/v1">https://doi.org/10.22541/essoar.169945526.69817769/v1</a>
+>  Geyman, B.M., Streets, D.G., Thackray, C.P., Olson, C.L., Schaefer, K., & Sunderland, E.M. (2024). Projecting global mercury emissions and deposition under the shared socioeconomic pathways. Earth's Future, 12, e2023EF004231. <a href="https://doi.org/10.1029/2023EF004231">https://doi.org/10.1029/2023EF004231</a>
 
 ## Authors
 * Benjamin M. Geyman
